@@ -1,0 +1,3 @@
+this is a test changelog for git training
+nother to see here , move along
+hello git peoples!
